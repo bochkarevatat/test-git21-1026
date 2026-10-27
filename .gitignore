@@ -1,5 +1,5 @@
 Thumbs.db
 .DS_Store
 tmp/
-index.html_old
-NeuroStartUp.png_backup
+*.*_old
+*.*_backup
